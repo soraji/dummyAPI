@@ -1,9 +1,4 @@
 {
-  "chamgajasu": [
-    {
-        "chamgajasu" : "409"
-    }
-  ],
   "chamgajainfo": [
     {
         "var1": "0",
@@ -12278,6 +12273,7 @@
   ],
   "detail":[
     {
+      "chamgajasu" : "409",
       "startpoint": "97",
       "endpoint": "103"
     }
